@@ -1,0 +1,6 @@
+The exact URL for the `insurance.csv` dataset displayed in the notebook table is:
+
+[https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv](https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv)
+
+If you need to load the raw data directly into a tool like pandas or R, you can use the direct raw data link:
+[https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv](https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv)
